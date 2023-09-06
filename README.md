@@ -7,9 +7,9 @@ Once you have downloaded Processing, extract all the files within the zip file i
 # Controls
 For games that require movement, use the keys W, A, S, and D.
 
-W = up
-A = left
-S = down
+W = up\
+A = left\
+S = down\
 D = right
 
 Some animations may require you to move the mouse to make things go.
