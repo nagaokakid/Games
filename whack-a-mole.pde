@@ -1,18 +1,8 @@
-/*
- * COMP 1010  SECTION A04
- * INSTRUCTOR: DOMARATZKI
- * NAME: AKIRA COOPER
- * ASSIGNMENT: #5
- * QUESTION: #2
- 
- * PURPOSE:  CREATE A WHACK-A-MOLE GAME THAT KEEPS TRACK OF BOTH TIME AND SCORE
- 
- * NOTE: All SVG files in this assignment are those provided on UMLEARN
- */
+// PURPOSE:  CREATE A WHACK-A-MOLE GAME THAT KEEPS TRACK OF BOTH TIME AND SCORE
 
 
 final float HOLE_SIZE = 1000/10; // global constant for hole size
-final int MAX_TIME = 15; // global constant for total game time (15 seconds)
+final int MAX_TIME = 30; // global constant for total game time (15 seconds)
 
 PShape pic1; // global variable for empty hole SVG file
 PShape pic2; // global variable for mole SVG file
